@@ -1,0 +1,9 @@
+body {
+    background-color: #7d32fe;
+}
+
+.rounded-container {
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+}
